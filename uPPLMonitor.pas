@@ -273,6 +273,9 @@ end;
 
 {$ENDREGION}
 
+
+
+
 procedure TfmPPLMonitor.bbParallelClick(Sender: TObject);
 var res: TParallel.TLoopResult;
 begin
